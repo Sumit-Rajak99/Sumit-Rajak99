@@ -1,98 +1,128 @@
-<!-- Banner Image -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=250&section=header&text=Hi,%20I'm%20Sumit%20Rajak&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=250&section=header&text=Hi,%20I'm%20Sumit%20Rajak&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+from+India;HTML+CSS+JavaScript+React;Java+Python+Django;DSA+%7C+Problem+Solver;Always+Learning+New+Things&center=true&width=650&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+from+India;HTML+CSS+JavaScript+React;Java+Python+Django;DSA+%7C+Problem+Solver;Always+Learning+New+Things&center=true&width=650&height=45">
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sumit-Rajak99&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me  
-- 🚀 **Full Stack Developer** from India 🇮🇳  
-- 💻 Passionate about **Web Development & Backend Systems**  
-- 🌱 Currently improving **DSA & System Design**  
-- 🧠 Strong problem-solving mindset  
-- ⚡ Fun fact: *I convert coffee ☕ into clean code*  
+# 👨‍💻 About Me
+
+- 🚀 Full Stack Developer from India 🇮🇳  
+- 💻 Passionate about Web Development & Backend Systems  
+- 🌱 Currently learning **System Design & Advanced DSA**  
+- ⚡ Fun fact: *I convert coffee ☕ into clean code*
 
 ---
 
-## 🛠️ Technology Stack  
+# 🛠️ Tech Stack
 
-### 🚀 Frontend  
+### 🚀 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
 </p>
 
-### ⚙️ Backend  
+### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,django" />
+<img src="https://skillicons.dev/icons?i=java,python,django,nodejs"/>
 </p>
 
-### 🗄️ Database  
+### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
-### 🧠 Programming & CS  
+### 🧠 Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=cpp"/>
 </p>
 
-- DSA  
-- SDLC  
-
-### 🎨 Tools & Design  
+### 🎨 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,git,github" />
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode"/>
 </p>
 
 ---
 
-## 🔗 Connect With Me  
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="mailto:sumitrajaksumitrajak793@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sumit-rajak14/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/logics_sumit/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
-  </a>
+<img src="https://github-profile-trophy.vercel.app/?username=Sumit-Rajak99&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumit-Rajak99&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Rajak99&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sumit-Rajak99&show_icons=true&theme=tokyonight" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Rajak99&theme=tokyonight" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Rajak99&layout=compact&theme=tokyonight" width="40%" />
-</p>
-
----
-
-## 🧠 LeetCode Journey  
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/logics_sumit?theme=dark&font=Baloo&ext=contest" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Rajak99&layout=compact&theme=tokyonight" width="40%">
 </p>
 
 ---
 
-## 🌟 Motto  
+# 📈 Contribution Graph
+
 <p align="center">
-  <b>Eat • Code • Debug • Repeat 💻🔥</b>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit-Rajak99&theme=tokyo-night"/>
 </p>
 
-<!-- Footer Animation -->
+---
+
+# 🧠 LeetCode Journey
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=120&section=footer"/>
-</p> isme or achhe achhe animation add karo 
+<img src="https://leetcard.jacoblin.cool/logics_sumit?theme=dark&font=Baloo&ext=contest"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🔗 Connect With Me
+
+<p align="center">
+<a href="mailto:sumitrajaksumitrajak793@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sumit-rajak14/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/logics_sumit/">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+</a>
+</p>
+
+---
+
+# 🌟 Motto
+
+<p align="center">
+<b>Eat • Code • Debug • Repeat 💻🔥</b>
+</p>
+
+<!-- Footer -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=120&section=footer"/>
+</p>
