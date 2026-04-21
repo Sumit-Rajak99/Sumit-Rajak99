@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=software+engineer+Full+Stack+Developer+from+India;HTML+CSS+JavaScript+React;Java+Python+Django;DSA+%7C+Problem+Solver;Always+Learning+New+Things&center=true&width=650&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Full+Stack+Developer+from+India;HTML+CSS+JavaScript+React;Java+Python+Django;DSA+%7C+Problem+Solver;Always+Learning+New+Things&center=true&width=650&height=45">
 </p>
 
 <!-- Profile Views -->
