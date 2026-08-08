@@ -6,7 +6,7 @@
 
 ### 🚀 Full Stack Developer • Python Developer • Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;React+%7C+Django+%7C+Python+%7C+SQL;DSA+%7C+LeetCode+%7C+Problem+Solving;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Software+engineer;React+%7C+Django+%7C+Python+%7C+SQL;DSA+%7C+LeetCode+%7C+Problem+Solving;Always+Learning.+Always+Building." />
 
 <br/>
 
