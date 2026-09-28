@@ -202,10 +202,13 @@ A movie-ticket booking interface inspired by modern entertainment platforms.
 
 <div align="center">
 
-<img
-  src="https://leetcard.jacoblin.cool/Sumit-Rajak99?theme=light&font=Karma&ext=heatmap"
-  alt="LeetCode Stats"
-/>
+<a href="https://leetcode.com/u/logics_sumit/">
+  <img src="https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/logics_sumit?theme=light&font=Karma&ext=heatmap" alt="Sumit Rajak LeetCode Stats" />
 
 </div>
 
